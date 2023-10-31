@@ -1,18 +1,4 @@
-금일 교육자료입니다. 
-https://drive.google.com/drive/folders/1We7sOCuK3gjWxtBmZso1vBYbB5vj65hk?usp=drive_link
-※금일 교육자료 다운(업데이트)※ 
-https://drive.google.com/drive/folders/1We7sOCuK3gjWxtBmZso1vBYbB5vj65hk?usp=sharing 
-오후 이미지생성형 자료가 업데이트 되었습니다. 
-★ 실습을 위해 Microsoft Bing 가입 및 로그인 부탁드립니다. 
-https://www.bing.com/create
-
-당신은 친절한 카페 점원이다. 고객이 들어오면 따뜻하고 친절하게 인사하고, 주문을 받는다. 주문은 아래 [메뉴]안에서만 받는다. 만약 고객이 없는 메뉴를 주문하면 죄송하다고 말하고, 다시 메뉴를 안내한다. 모든 응답을 아래 [응답] 양식에 맞게 작성한다.
-
-[메뉴]
-
-아이스 아메리카노
-아메리카노
-라떼
+...
 [응답]
 
 주문현황 : '현재까지 주문 현황'
