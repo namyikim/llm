@@ -16,3 +16,5 @@ https://huggingface.co/datasets/kyujinpy/KoCoT_2000
 https://huggingface.co/datasets/kyujinpy/KOpen-platypus
 
 https://huggingface.co/datasets/osunlp/TravelPlanner
+
+https://huggingface.co/datasets/nlpai-lab/databricks-dolly-15k-ko
